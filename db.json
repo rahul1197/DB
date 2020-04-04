@@ -1,0 +1,147 @@
+{
+  "Elections": [
+    {
+      "name": "43e élection fédérale",
+      "date": "21 octobre 2019",
+      "type": "Federal"
+    },
+    {
+      "name": "Élections générales provinciales",
+      "date": "1er octobre 2018",
+      "type": "Provincial"
+    },
+    {
+      "name": "42e élection fédérale",
+      "date": "19 octobre 2015",
+      "type": "Federal"
+    },
+    {
+      "name": "Élections générales provinciales",
+      "date": "7 avril 2014",
+      "type": "Provincial"
+    }
+  ],
+  "PartisFederaux": [
+    {
+      "abreviation": "P.L.C",
+      "fullname": "Parti libéral du Canada"
+    },
+    {
+      "abreviation": "P.C.C.",
+      "fullname": "Parti conservateur du Canada"
+    },
+    {
+      "abreviation": "B.Q.",
+      "fullname": "Bloc Québécois"
+    },
+    {
+      "abreviation": "N.P.D.",
+      "fullname": "Nouveau parti démocratique"
+    },
+    {
+      "abreviation": "P.V.C.",
+      "fullname": "Parti vert du Canada"
+    },
+    {
+      "abreviation": "P.P.C.",
+      "fullname": "Parti populaire du Canada"
+    }
+  ],
+  "PartisProvinciaux": [
+    {
+      "abreviation": "C.A.Q",
+      "fullname": "Coalition avenir Quebec"
+    },
+    {
+      "abreviation": "P.L.Q",
+      "fullname": "Parti liberal du Quebec"
+    },
+    {
+      "abreviation": "P.Q",
+      "fullname": "Parti quebecois"
+    },
+    {
+      "abreviation": "P.V.Q",
+      "fullname": "Parti vert du Quebec"
+    },
+    {
+      "abreviation": "Q.S",
+      "fullname": "Quebec solidaire"
+    },
+    {
+      "abreviation": "P.C.Q",
+      "fullname": "Parti conservateur du Quebec"
+    },
+    {
+      "abreviation": "P.I.Q",
+      "fullname": "Parti pour l'independance du Quebec"
+    }
+  ],
+  "CandidatsFederaux": [
+    {
+      "party": "P.L.C",
+      "fullname": "Justin Trudeau"
+    },
+    {
+      "party": "P.C.C",
+      "fullname": "Andrew Scheer"
+    },
+    {
+      "party": "B.Q",
+      "fullname": "Yves-François Blanchet"
+    },
+    {
+      "party": "N.P.D",
+      "fullname": "Jagmeet Singh"
+    },
+    {
+      "party": "P.V.C",
+      "fullname": "Elizabeth May"
+    },
+    {
+      "party": "P.P.C",
+      "fullname": "Maxime Bernier"
+    }
+  ],
+  "CandidatsProvinciaux": [
+    {
+      "party": "C.A.Q",
+      "fullname": "François Legault"
+    },
+    {
+      "party": "P.L.Q",
+      "fullname": "Philippe Couillard"
+    },
+    {
+      "party": "P.Q",
+      "fullname": "Jean-François Lisée"
+    },
+    {
+      "party": "Q.S",
+      "fullname": "Manon Massé"
+    },
+    {
+      "party": "P.V.Q",
+      "fullname": "Alex Tyrell"
+    },
+    {
+      "party": "P.C.Q",
+      "fullname": "Adrien D. Pouliot"
+    },
+    {
+      "party": "P.L.Q",
+      "fullname": "Michel Blondin"
+    }
+  ],
+  "Propositions": [
+    "Environnement",
+    "Éducation",
+    "Santé et services sociaux",
+    "Immigration",
+    "Économie",
+    "Arts et culture",
+    "Transports",
+    "Énergie"
+  ],
+  "FauxTexte": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean euismod bibendum laoreet. Proin gravida dolor sit amet lacus accumsan et viverra justo commodo. Proin sodales pulvinar tempor. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nam fermentum, nulla luctus pharetra vulputate, felis tellus mollis orci, sed rhoncus sapien nunc eget odio. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean euismod bibendum laoreet. Proin gravida dolor sit amet lacus accumsan et viverra justo commodo. Proin sodales pulvinar tempor. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nam fermentum, nulla luctus pharetra vulputate, felis tellus mollis orci, sed rhoncus sapien nunc eget odio. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean euismod bibendum laoreet. Proin gravida dolor sit amet lacus accumsan et viverra justo commodo. Proin sodales pulvinar tempor."
+}
